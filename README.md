@@ -1,6 +1,10 @@
 # Nauja_Repozicija
 
-Programa v1.1 iš jai duotų failų nuskaito duomenis apie mokinius. Jei failų neturite programa gali pati sugeneruoti atsitiktinius duomenis apie mokinius. Programa apskaičiuoja mokinių vidurkius pagal medianą arba vidurkį ir suskirsto juos į du failus "bičiuliai", mokiniai, kurių rezultatai žemiau 5 ir "galvočiai", mokiniai su aukštesniais rezultatais. Šie failai pagal vartotojo pasirinktimą gali būti saugomi dviejuose naujuose konteineriuose arba tik vienus mokinius perkeliant į naują. Veiksmai atliekami su skirtingo dydžio failais ir darbo laikai su kiekvienu failu yra išvedami. Visi skiačiavimai atliekami su vector tipo konteineriais. Laikas matuojamas kai nd skaičius lygus 10 ir galutinis rezultatas skaičiuojamas pagal vidurkį.
+Programa v1.1 iš jai duotų failų nuskaito duomenis apie mokinius. Jei failų neturite programa gali pati sugeneruoti atsitiktinius duomenis apie mokinius. Programa apskaičiuoja mokinių vidurkius pagal medianą arba vidurkį ir suskirsto juos į du failus "bičiuliai", mokiniai, kurių rezultatai žemiau 5 ir "galvočiai", mokiniai su aukštesniais rezultatais. Šie failai pagal vartotojo pasirinktimą gali būti saugomi dviejuose naujuose konteineriuose arba tik vienus mokinius perkeliant į naują.
+
+Naudojimas: Atsisiųskite programos failus. Programą galima paleisti per .cbp failą arba į komandinę eilutę įvedus komandą *make*.
+
+Veiksmai atliekami su skirtingo dydžio failais ir darbo laikai su kiekvienu failu yra išvedami. Visi skiačiavimai atliekami su vector tipo konteineriais. Laikas matuojamas kai nd skaičius lygus 10 ir galutinis rezultatas skaičiuojamas pagal vidurkį.
 
 v1.0 naudojant struct:
 100000 eiluciu failo veikimo laikas: 2.442
